@@ -84,8 +84,8 @@ body {
             grid-auto-rows: 28px minmax(200px, auto);
             gap: 15px;
             grid-template-areas:
-                "header header header"
-                "article1 article2 article3";
+                'header header header'
+                'article1 article2 article3';
             header {
                 grid-area: header;
             }
